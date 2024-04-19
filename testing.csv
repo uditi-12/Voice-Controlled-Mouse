@@ -1,0 +1,129 @@
+recognized_speech,ground_truth,recognized_intent,expected_intent,intent_based_on_recognized_speech
+search cat exam on google,search cat exam on google,google_search,google_search,google_search
+open new tab,open new tab,new_tab,new_tab,new_tab
+play python youtube video,play python youtube video,youtube_search,youtube_search,youtube_search
+close tab,close tab,close_tab,close_tab,close_tab
+switch table,switch tab,switch_tab,switch_tab,switch_tab
+take a note,take a note,note,note,note
+open word,open word,open_app,open_app,open_app
+open new file,open new file,new_file,new_file,new_file
+right,right,right,right,right
+write down,write down,write,write,write
+move left,move left,left,left,left
+move right,move right,right,right,right
+enter,enter,hit_enter,hit_enter,hit_enter
+move,move up,write,up,write
+up battle,up arrow,up,up,up
+select text,select text,select_text,select_text,select_text
+copy text,copy text,copy_text,copy_text,copy_text
+move down,move down,down,down,down
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+select text,select text,select_text,select_text,select_text
+delete texts,delete texts,delete_text,delete_text,delete_text
+maximize window,maximize window,maximize_window,maximize_window,maximize_window
+minimize window,minimize window,minimize_window,minimize_window,minimize_window
+switch window,switch window,switch_window,switch_window,switch_window
+right,right,right,right,right
+write down,write down,write,write,write
+close window,close window,close_window,close_window,close_window
+search tv on youtube,search tv on youtube,youtube_search,youtube_search,youtube_search
+open new tab,open new tab,new_tab,new_tab,new_tab
+search google,search google,google_search,google_search,google_search
+close tab,close tab,close_tab,close_tab,close_tab
+window,window,write,write,write
+close window,close window,close_window,close_window,close_window
+search google,search google,google_search,google_search,google_search
+write down,write down,write,write,write
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+close window,close window,close_window,close_window,close_window
+text,paste text,paste_text,paste_text,paste_text
+beast text,paste text,paste_text,paste_text,paste_text
+search gre on google,search gre on google,google_search,google_search,google_search
+open new tab,open new tab,new_tab,new_tab,new_tab
+right,right,right,right,right
+night dumb,write down,None,write,None
+write down,write down,write,write,write
+android,hit enter,None,hit_enter,None
+enter,enter,hit_enter,hit_enter,hit_enter
+search gre,search gre,paste_text,google_search,google_search
+third grade on google,third grade on google,google_search,google_search,google_search
+search dog categories on google,search dog categories on google,google_search,google_search,google_search
+search dog categories on google,search dog categories on google,google_search,google_search,google_search
+search laptops on google,search laptops on google,google_search,google_search,google_search
+search google,search google,google_search,google_search,google_search
+play youtube video on g r e,play youtube video on g r e,youtube_search,youtube_search,youtube_search
+close tab,close tab,close_tab,close_tab,close_tab
+open youtube,open youtube,None,open_app,open_app
+open new tab,open new tab,new_tab,new_tab,new_tab
+search gre on google,search gre on google,google_search,google_search,google_search
+switch table,switch tab,switch_tab,switch_tab,switch_tab
+which table,switch tab,None,switch_tab,None
+click enter,click enter,hit_enter,hit_enter,hit_enter
+close window,close window,close_window,close_window,close_window
+open notepad,open notepad,open_app,open_app,open_app
+new file,new file,new_file,new_file,new_file
+write down,write down,write,write,write
+select text,select text,select_text,select_text,select_text
+close window,close window,close_window,close_window,close_window
+switch window,switch window,switch_window,switch_window,switch_window
+wikipedia,wikipedia,up,open_app,open_app
+open powerpoint,open powerpoint,open_app,open_app,open_app
+new files,new files,new_file,new_file,new_file
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+write down,write down,write,write,write
+ender table,enter tab,None,tab_key,None
+android tab key,enter tab key,tab_key,tab_key,tab_key
+ender table,enter tab key,None,tab_key,None
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+close window,close window,close_window,close_window,close_window
+enter tab key,enter tab key,tab_key,tab_key,tab_key
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+close window,close window,close_window,close_window,close_window
+open lead code,open leetcode,open_app,open_app,open_app
+open the code,open leetcode,open_app,open_app,open_app
+open code forces,open codeforces,open_app,open_app,open_app
+open gmail,open gmail,open_website,open_website,open_website
+open new tab,open new tab,new_tab,new_tab,new_tab
+android tab key,enter tab key,tab_key,tab_key,tab_key
+close window,close window,close_window,close_window,close_window
+open udemy,open udemy,open_website,open_website,open_website
+open w3schools,open w3schools,open_website,open_website,open_website
+open netflix,open netflix,open_website,open_website,open_website
+switch table,switch table,switch_tab,switch_tab,switch_tab
+switch table,switch table,switch_tab,switch_tab,switch_tab
+switch table,switch table,switch_tab,switch_tab,switch_tab
+enter tab key,enter tab key,tab_key,tab_key,tab_key
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+close window,close window,close_window,close_window,close_window
+take a screenshot,take a screenshot,screenshot,screenshot,screenshot
+open excel,open excel,open_app,open_app,open_app
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+search google for gre,search google for gre,google_search,google_search,google_search
+open cat exam youtube video,open cat exam youtube video,None,youtube_search,None
+exam youtube video,exam youtube video,None,youtube_search,None
+cat exam video,cat exam video,None,youtube_search,None
+sam video on youtube,cat video on youtube,open_app,open_app,open_app
+open youtube,open youtube,open_website,open_website,open_website
+search shark tank on youtube,search shark tank on youtube,youtube_search,youtube_search,youtube_search
+play shark tank video on youtube,play shark tank video on youtube,youtube_search,youtube_search,youtube_search
+open word,open word,open_app,open_app,open_app
+hit enter,hit enter,hit_enter,hit_enter,hit_enter
+minimize window,minimize window,minimize_window,minimize_window,minimize_window
+maximize window,maximize window,maximize_window,maximize_window,maximize_window
+write down,write down,write,write,write
+open word,open word,open_app,open_app,open_app
+open word,,open_app,,open_app
+pandora,,None,,None
+click enter,,hit_enter,,hit_enter
+open powerpoint,,open_app,,open_app
+play kanter,,youtube_search,,youtube_search
+open github,,open_website,,open_website
+open excel,,open_app,,open_app
+click enter,,hit_enter,,hit_enter
+write down,,write,,write
+take a screenshot,,screenshot,,screenshot
+sugar song lyrics,,None,,None
+tell me about bjp,,wikipedia,,wikipedia
+sword giardi on google,,google_search,,google_search
+search cat exam on google,,google_search,,google_search

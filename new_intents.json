@@ -1,0 +1,113 @@
+{
+  "intents": [
+    {
+      "tag": "select_text",
+      "patterns": ["select the text", "select all text", "select text", "select", "Highlight text", "Text selection required", "Selecting text please", "Choose the text"]
+    },
+    {
+      "tag": "copy_text",
+      "patterns": ["copy text", "copy the text", "copy the text", "copy", "Duplicate text", "Text copying needed", "Copying content please", "Copy this"]
+    },
+    {
+      "tag": "paste_text",
+      "patterns": ["paste text", "paste the text", "paste","beast","p a s t e", "Paste content", "Insert text", "Pasting required", "Inserting content please"]
+    },
+    {
+      "tag": "delete_text",
+      "patterns": ["delete text", "delete", "delete the text", "Remove text", "Deleting content", "Erase text please", "Clearing content"]
+    },
+    {
+      "tag": "save_file",
+      "patterns": ["save file", "save", "save the file", "save this file", "Save content", "Save document please", "Save changes"]
+    },
+    {
+      "tag": "new_file",
+      "patterns": ["create new file", "open new file", "Create a document", "Start a new file", "New file please", "Document creation required", "Creating new document"]
+    }, 
+    {
+      "tag": "switch_tab",
+      "patterns": ["switch tab", "switch the tab", "switch tabs","switch the table","switch tab", "Change tab", "Move to another tab", "Tab switching required", "Navigating to another tab"]
+    },
+    {
+      "tag": "close_tab",
+      "patterns": ["close tab", "close the tab", "close tab", "Close current tab", "Shut down this tab", "Closing tab please", "Tab closure needed"]
+    },
+    {
+      "tag": "new_tab",
+      "patterns": ["open new tab", "open a new tab", "new tab", "create new tab", "Open another tab", "Launch a new tab", "Starting a new tab"]
+    },
+    {
+      "tag": "close_window",
+      "patterns": ["close window", "close the window", "close windows", "Minimize all windows", "Hide all windows", "Closing window please", "Window closure needed"]
+    },
+    {
+      "tag": "switch_window",
+      "patterns": ["switch window", "switch the window", "switch window","switch windows", "Change window", "Move to another window", "Navigating to another window", "Window switching required"]
+    },
+    {
+      "tag": "minimize_window",
+      "patterns": ["minimize windows", "minimize window", "minimize the window", "Minimize current window", "Hide this window", "Hiding window please", "Window minimization required"]
+    },
+    {
+      "tag": "maximize_window",
+      "patterns": ["maximize windows", "maximize window", "maximize the window", "Maximize current window", "Expand this window", "Maximizing window please", "Window maximization needed"]
+    },
+    {
+      "tag": "screenshot",
+      "patterns": ["take screenshots", "take screenshot", "take a screenshot", "Capture screen", "Screenshot please", "Capturing screen", "Screen grab needed"]
+    },
+    {
+      "tag": "wikipedia",
+      "patterns": ["tell me about virat kohli", "tell me something about barak obama", "tell me about president of india", "tell me about mukesh ambani", "tell me something about narendra modi", "tell me something about sardar patel", "tell something about quantum computing", "tell about python programming language", "tell something about india", "tell something about stock markets", "tell me about cristiano ronaldo", "tell me about ms dhoni", "tell me about bhupendra patel", "tell me something about rahul gandhi", "tell something about bill and melinda gates foundation", "tell something about drugs business in usa", "tell something about neuralink", "tell something about lionel messi", "Wikipedia search for Quantum Computing", "Look up information on Cristiano Ronaldo", "Search Wikipedia for Narendra Modi", "Wikipedia article on Stock Markets"]
+    },
+    {
+      "tag": "open_website",
+      "patterns": ["open google", "open gmail", "open myclass", "open lpulive", "open ums", "open github", "open youtube", "open sanfoundry", "open hackerrank", "open hackerearth", "open codeforces", "open codechef", "open codecademy", "open leetcode", "open udemy", "open edx", "open coursera", "open w3resource", "open w3schools", "open geeksforgeeks", "open stackoverflow", "open instagram", "open facebook", "open linkedin", "open twitter", "open imdb", "open netflix", "open amazon prime", "open whatsapp", "open hotstar", "open cricbuzz", "open google maps", "open flipkart", "open amazon", "open nykaa", "open myntra", "open amazon flex", "open swiggy", "open zomato", "open spotify", "Visit Google", "Access Gmail", "Open MyClass portal", "Launch GitHub", "Go to YouTube", "Navigate to Sanfoundry", "Explore Stack Overflow", "Open Netflix", "Go to WhatsApp", "Open Cricbuzz", "Access Amazon Prime", "Visit Hotstar", "Open Google Maps", "Open Flipkart website"]
+    },
+    {
+      "tag": "open_app",
+      "patterns": ["open ms access", "open access", "open ms powerpoint", "open powerpoint", "open wordpad", "open word", "open ms word", "open excel", "open ms excel", "open outlook", "open ms outlook", "open publisher", "open ms publisher", "open onenote", "open ms onenote", "open sharepoint", "open ms sharepoint", "open infopath designer", "open infopath filler", "open brave", "open brave browser","open calculator", "open camera", "open command prompt", "open computer management", "open control panel", "open cortana", "open discord", "open disk cleanup", "open documentation", "event viewer", "open file explorer", "open git bash", "open git cmd", "open git gui", "open groove music", "open hashcalc", "open magnifier", "open internet explorer", "node js command prompt", "open notepad", "open onedrive", "open paint", "open photos", "open task manager", "open telegram", "open this pc", "open video editor", "open visual studio", "open visual studio code", "open voice recorder", "open zoom", "Launch MS Access", "Start PowerPoint", "Open WordPad", "Launch Excel", "Open Outlook", "Access Publisher", "Open OneNote", "Run SharePoint", "Open Infopath Designer", "Access Brave browser", "Start Calculator", "Open Camera app", "Launch Command Prompt", "Run Computer Management", "Access Control Panel", "Activate Cortana", "Open Discord app", "Run Disk Cleanup", "Access documentation", "View event logs", "Open File Explorer", "Launch Git Bash", "Start Git CMD", "Launch Git GUI", "Run Groove Music", "Start HashCalc", "Activate Magnifier", "Open Internet Explorer", "Access Notepad", "Open OneDrive", "Launch Paint", "View Photos", "Access Task Manager", "Start Telegram", "Access This PC", "Open Video Editor", "Launch Visual Studio", "Open Visual Studio Code", "Start Voice Recorder", "Launch Zoom"]
+    },
+    {
+      "tag": "exit",
+      "patterns": ["quit", "exit", "terminate", "Close application", "End session", "Quit program", "Exit program", "Terminate operation", "Shut down", "Leave", "Stop"]
+    },
+    {
+      "tag": "note",
+      "patterns": ["take note", "take a note", "Note down", "Jot down", "Note-taking", "Writing notes", "Memo please", "Writing down information"]
+    },
+    {
+      "tag": "hit_enter",
+      "patterns": ["hit enter", "enter","hit an enter","enter","hit","click enter", "Press Enter key", "Hit Enter key", "Enter please", "Submit with Enter", "Enter required"]
+    },
+    {
+      "tag": "write",
+      "patterns": ["write down", "write", "write", "Start writing"]
+    },
+    {
+      "tag": "tab_key",
+      "patterns": ["hit tab", "enter tab", "tab","click tab", "t a b", " hit tab key", "click tab key", "Press Tab key", "Hit Tab please", "Tab selection", "Navigate with Tab"]
+    },
+    {
+      "tag": "get_data",
+      "patterns": ["show chat history", "get history", "get assistant chat history", "get chat history", "Retrieve data", "Access logs", "Show records", "Get information", "Display details"]
+    },
+    {
+      "tag": "left",
+      "patterns": ["left", "enter left", "left arrow","move left", "hit left", " hit left key", "click left arrow key","hit left arrow key", "Navigate left", "Move towards left", "Go left", "Leftward movement", "Shift left"]
+    },
+    {
+      "tag": "right",
+      "patterns": ["right", "enter right", "right arrow","move right", "hit right", " hit right key", "click right arrow key","hit right arrow key", "Navigate right", "Move towards right", "Go right", "Rightward movement", "Shift right"]
+    },
+    {
+      "tag": "down",
+      "patterns": ["down", "enter down", "down arrow","move down", "hit down", " hit down key", "click down arrow key","hit down arrow key", "Navigate down", "Move downwards", "Go down", "Downward movement", "Shift down"]
+    },
+    {
+      "tag": "up",
+      "patterns": ["up", "enter up", "up arrow","move up", "hit up", " hit up key", "click up arrow key","hit up arrow key", "Navigate up", "Move upwards", "Go up", "Upward movement", "Shift up"]
+    }
+  ]
+}
+
